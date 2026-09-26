@@ -1,0 +1,1 @@
+Mantenha index.html, styles.css e banner-geracao-do-futuro.png juntos na mesma pasta do site.
